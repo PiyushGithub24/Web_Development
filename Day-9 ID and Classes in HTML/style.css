@@ -1,0 +1,15 @@
+/* . is used to access class attribute */
+
+.red {
+    color: rgb(240, 49, 6);
+}
+
+.bg-yellow{
+    background-color: rgb(17, 219, 64);
+}
+
+/* # is used to access ID attribute */
+
+/* #firstdiv{
+    background-color: blue;
+} */
